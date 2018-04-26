@@ -1,10 +1,8 @@
 
 @ECHO OFF
-set INPUT=
-set INPUT2=
+
 set DIRE=
 set SCELTA=
-set DIRE2=
 set DIRE3=
 
 echo "  ______                                 __  __       ";
