@@ -26,7 +26,7 @@ echo "-------------------------------------------------------";
 echo "[example: Users\Public\Admin = right] while [C:\Users\Public\Admin = wrong]";
 
 echo "----------------------------------------------------------------------------------";
-set /P DIRE3= Type the path where the folder should be contained (without inserting the disc or press enter to leave no path) :   
+set /P DIRE3= Type the path where the folder should be contained (without inserting the disk or press enter to leave no path) :   
  
 echo "----------------------------------------------------------";
 
